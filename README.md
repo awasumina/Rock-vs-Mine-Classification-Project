@@ -17,7 +17,7 @@ We used **Logistic Regression** from the `scikit-learn` library to classify the 
 
 - **Training Accuracy**: 83.42%
 - **Test Accuracy**: 76.19%
-
+  
 ## Visualizations
 
 1. **Training vs Test Accuracy**: A bar plot comparing the accuracy of the model on the training and test datasets.
